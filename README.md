@@ -25,4 +25,4 @@ Note: Due to size limit i didnt uploaded the images folder and export.pkl (model
         downloaded and will get trained.
                 
 
-Please feel free to provide a feedback for the below mail id : santhoshbfun@gmail.com
+Please feel free to provide a feedback to the below mail id : santhoshbfun@gmail.com
