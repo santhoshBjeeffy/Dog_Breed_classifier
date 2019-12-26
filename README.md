@@ -10,7 +10,7 @@ This model predict the Breed of the dog given a image from the below sets.
 6.German shephard
 
 Data collection: The above images has been scraped from the google search engine i.e at a time 200 images link will be 
-                  generated and will be downloaded and saved in the drive.
+                  generated and downloaded in the drive.
                   
 Model :         Used CNN Transfer Learning Resnet to train the model with 5 epochs.
                 later finetune the model by finding the appropriate learning rate with 8 epochs.
