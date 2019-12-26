@@ -11,6 +11,7 @@ This model predict the Breed of the dog given a image from the below sets.
 
 Data collection: The above images has been scraped from the google search engine i.e at a time 200 images link will be 
                   generated and downloaded in the drive.
+                  For creating the dataset please refer the Data_set_download.ipynb
                   
 Model :         Used CNN Transfer Learning Resnet to train the model with 5 epochs.
                 later finetune the model by finding the appropriate learning rate with 8 epochs.
@@ -21,3 +22,5 @@ Note: Due to size limit i didnt uploaded the images folder and export.pkl (model
         (#downloading the images and '''import pickle ) and run the dogBreedclassifier.ipynb so that a new set of images will be 
         downloaded and will get trained.
                 
+
+Please feel free to provide a feedback for the below mail id : santhoshbfun@gmail.com
