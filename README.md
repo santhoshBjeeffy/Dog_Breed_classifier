@@ -9,10 +9,10 @@ This model predict the Breed of the dog given a image from the below sets.
 5.pomeranian
 6.German shephard
 
-Data collection: The above images has been scraped from the search engine i.e at a time 200 images can be downloaded 
-                  and saved in the drive.
+Data collection: The above images has been scraped from the google search engine i.e at a time 200 images link will be 
+                  generated and will be downloaded and saved in the drive.
                   
-Model :         Used Transfer Learning Resnet to train the model with 5 epochs.
+Model :         Used CNN Transfer Learning Resnet to train the model with 5 epochs.
                 later finetune the model by finding the appropriate learning rate with 8 epochs.
                 Saved the model in the .pkl format for deploying in any web interface or to predict the breed of the dog.
                 
